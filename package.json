@@ -1,0 +1,15 @@
+{
+  "name": "expressjs-helloworld",
+  "version": "1.0.0",
+  "description": "This is a hello World App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git": "expressjs-helloworld"
+  "author": "Esperanza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
